@@ -1,3 +1,4 @@
+
 # 🚀 Stratify AI — Agentic Decision Intelligence System
 
 Stratify AI is an AI-powered decision engine that combines real-time data, document intelligence, and large language models to generate structured, explainable business insights.
@@ -58,6 +59,10 @@ Stratify AI will:
 
 ---
 
+## 📊 Demo Preview
+
+<img width="1280" height="669" alt="dashboard" src="https://github.com/user-attachments/assets/66edc3da-7068-4d45-9d32-ed484f88456e" />
+
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repository
@@ -70,3 +75,4 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 cd frontend
 python app.py
+
